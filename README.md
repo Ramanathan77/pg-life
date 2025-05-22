@@ -2,6 +2,9 @@
 
 A responsive website that helps students search and book PG accommodations in different cities.
 
+🌐 Live Demo
+👉 [Visit the Live Project](https://pglife.42web.io/)
+
 🚀 Features
 - City-wise PG listings
 - User login & registration
@@ -13,9 +16,6 @@ A responsive website that helps students search and book PG accommodations in di
 - Backend: PHP
 - Database: MySQL
 - Hosting: InfinityFree
-
-🌐 Live Demo
-👉 [Visit the Live Project](https://pglife.42web.io/)
 
 📂 Project Structure
 /pglife
